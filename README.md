@@ -25,7 +25,7 @@ Start the server
 ```sh
 python main.py
 ```
-## API (every API receives JSON)
+## API 
 
 ### getdata
 GET รับ sentence 
