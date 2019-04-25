@@ -12,4 +12,4 @@ def find_nearast_sentence(sentence):
             min_error = edit_distance
             template = template_sentence
     print(min_error, template)
-    return { "command" : template, "command_no" : sentence_map[template]}
+    return { "command" : template, "command_id" : sentence_map[template]}
