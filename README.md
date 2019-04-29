@@ -27,6 +27,7 @@ python main.py
 ```
 ## API 
 
+
 ### getdata
 GET รับ sentence 
 
@@ -34,7 +35,7 @@ return
 ```json
 {
     "command": "nearest string in dict from given input",
-    "command_no": "id of command"
+    "command_id": "id of command"
 }
 ```
 
